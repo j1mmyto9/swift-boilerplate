@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (5.8.1)
+  - CryptoSwift (1.8.0)
+  - DeviceKit (5.1.0)
+  - IQKeyboardManagerSwift (6.5.16)
+  - Kingfisher (7.10.1)
+  - L10n-swift (5.10.2):
+    - L10n-swift/Core (= 5.10.2)
+    - L10n-swift/Extension (= 5.10.2)
+    - L10n-swift/IBInspectable (= 5.10.2)
+  - L10n-swift/Core (5.10.2)
+  - L10n-swift/Extension (5.10.2):
+    - L10n-swift/Core
+  - L10n-swift/IBInspectable (5.10.2):
+    - L10n-swift/Core
+  - MMKV (1.3.2):
+    - MMKVCore (~> 1.3.2)
+  - MMKVCore (1.3.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - SwiftGen (6.6.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CryptoSwift
+  - DeviceKit
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - L10n-swift
+  - MMKV
+  - NVActivityIndicatorView
+  - Reusable
+  - SwiftGen
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - DeviceKit
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - L10n-swift
+    - MMKV
+    - MMKVCore
+    - NVActivityIndicatorView
+    - Reusable
+    - SwiftGen
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  CryptoSwift: 52aaf3fce7337552863b1d952e408085f0e65030
+  DeviceKit: bcce5c26d9502e77e3a9fa5d1282877db388d922
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  Kingfisher: bc5abe80a8e0144537ef1dd5a0b2621b04f7f439
+  L10n-swift: 55773890db57d1efe367434751018ab6ceb058b0
+  MMKV: f21593c0af4b3f2a0ceb8f820f28bb639ea22bb7
+  MMKVCore: 31b4cb83f8266467eef20a35b6d78e409a11060d
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: fb04aa36ea27d36c854a4d1f002a3e19129d4361
+
+COCOAPODS: 1.13.0
